@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="digimove" size="2.500000 2.440239" />
+    <ImageTarget name="028" size="0.210000 0.283333" />
+    <ImageTarget name="013" size="0.210000 0.283333" />
+    <ImageTarget name="011" size="0.210000 0.283333" />
+    <ImageTarget name="020" size="0.210000 0.283333" />
+    <ImageTarget name="10" size="0.210000 0.283333" />
+    <ImageTarget name="075" size="0.210000 0.283333" />
+    <ImageTarget name="009" size="0.210000 0.283333" />
+  </Tracking>
+</QCARConfig>
